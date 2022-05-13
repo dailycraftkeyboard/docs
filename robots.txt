@@ -1,0 +1,2 @@
+User-agent : *
+Sitemap : https://docs.dailycraft.jp/sitemap.xml
